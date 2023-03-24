@@ -1,0 +1,397 @@
+nav{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 40px;
+}
+
+.logo{
+    height: 50px;
+    float: left;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-con{
+    height: 50px;
+    margin-top: -13px;
+    margin-right: 40px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav li{
+    float: left;
+    font-size: 18px;
+    margin-left: 40px;
+    color: black;
+}
+
+nav li:hover{
+    cursor: pointer;
+    color: orangered;
+}
+
+.active{
+    color: black;
+    font-weight: bold;
+}
+
+.search-form{
+    width: 255px;
+    height: 40px;
+    float: right;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid black;
+    border-radius: 35px;
+    padding-top: 5px;
+    padding-left: 10px;
+    color: black;
+    background: transparent;
+}
+
+.text{
+    width: 550px;
+    height: 250px;
+    margin-left: 70px;
+    margin-top: 200px; 
+
+    
+}
+
+
+.text h4{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 100px;
+}
+
+.font{
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+
+form{
+    width: 650px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: 650px;
+    background-color: grey;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: -250px;
+}
+
+.form-input{
+    width: 90%;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding-left: 20px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(44, 43, 43);
+    cursor: pointer;
+   
+}
+
+.message{
+    width: 550px;
+    height: 100px;
+    margin-top: 10px;
+    margin-right: 350px;
+    margin-left: 5px;
+    padding-left: 20px;
+    border-radius: 25px;
+    background-color: rgb(44, 43, 43);
+}
+
+button{
+    width: 170px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: 400px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.location{
+    width: 550px;
+    height: 200px;
+    background-color: grey;
+    margin-left: 75px;
+    margin-top: -200px;
+}
+
+.playlist{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.box{
+    width: 470px;
+    height: 470px;
+    padding-left: 20px;
+    margin-left: 100px; 
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box h1{
+    font-size: 64px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.box h3{
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.suggestions{
+    width: 100%;
+    padding-left: 40%;
+    margin-top: -470px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.suggestions ul{
+    list-style: none;
+}
+
+.suggestions li{
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+}
+
+.title{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -460px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.title ul{
+    list-style: none;
+}
+
+.title li{
+    float: left;
+    margin-top: 50px;
+    margin-left: -20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-weight: bold;
+}
+
+.song-1{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -460px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-1 ul{
+    list-style: none;
+}
+
+.song-1 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.lines{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -230px;
+    margin-left: 49%;
+}
+
+.song-2{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -390px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-2 ul{
+    list-style: none;
+}
+
+.song-2 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.lines2{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -310px;
+    margin-left: 49%;
+}
+
+.lines3{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -150px;
+    margin-left: 49%;
+}
+
+.song-3{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -300px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-3 ul{
+    list-style: none;
+}
+
+.song-3 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.lines3{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -150px;
+    margin-left: 49%;
+}
+
+.song-3{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -300px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-3 ul{
+    list-style: none;
+}
+
+.song-3 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.lines4{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -55px;
+    margin-left: 49%;
+}
+
+.song-4{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -220px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-4 ul{
+    list-style: none;
+}
+
+.song-4 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.lines5{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: 0px;
+    margin-left: 49%;
+}
+
+.song-5{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -130px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-5 ul{
+    list-style: none;
+}
+
+.song-5 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.lines6{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: 20px;
+    margin-left: 49%;
+}
+
+.song-6{
+    width: 100%;
+    padding-left: 43%;
+    margin-top: -80px;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 18px;
+}
+
+.song-6 ul{
+    list-style: none;
+}
+
+.song-6 li{
+    float: left;
+    margin-top: 85px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
